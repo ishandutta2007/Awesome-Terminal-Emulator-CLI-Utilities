@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Terminal-Emulator-CLI-Utilities/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Terminal-Emulator-CLI-Utilities?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Terminal-Emulator-CLI-Utilities/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Terminal-Emulator-CLI-Utilities?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Terminal-Emulator-CLI-Utilities/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Terminal-Emulator-CLI-Utilities?style=social" alt="GitHub Forks" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -63,9 +63,9 @@ Below is a curated comparison of leading commercial and cloud-hosted terminal wo
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of standout open-source terminal emulators and CLI multiplexers, sorted in descending order by GitHub star count ⭐.
+Curated list of standout open-source terminal emulators and CLI multiplexers, sorted in descending order by GitHub Stars_Count ⭐.
 
-| Project | Stars | Language | Primary Focus & Capabilities |
+| Project | GitHub_Stars | Language | Primary Focus & Capabilities |
 | :--- | :---: | :---: | :--- |
 | **[Windows Terminal](https://github.com/microsoft/terminal)** | [![Stars](https://img.shields.io/github/stars/microsoft/terminal?style=social&color=white)](https://github.com/microsoft/terminal/stargazers) | C++ | Modern, high-performance terminal for Windows with GPU text rendering (DirectWrite), tabs, split panes, and quake mode. |
 | **[Tabby](https://github.com/Eugeny/tabby)** | [![Stars](https://img.shields.io/github/stars/Eugeny/tabby?style=social&color=white)](https://github.com/Eugeny/tabby/stargazers) | TypeScript | Infinitely customizable cross-platform terminal, SSH, and serial client with integrated SFTP and rich plugin ecosystem. |
@@ -85,9 +85,9 @@ Curated list of standout open-source terminal emulators and CLI multiplexers, so
 
 ## 💡 Modern CLI Utilities & Replacements
 
-Supercharge your terminal workflow with modern, active open-source command-line utilities that replace traditional coreutils with enhanced ergonomics and blistering speed, sorted in descending order by GitHub star count ⭐.
+Supercharge your terminal workflow with modern, active open-source command-line utilities that replace traditional coreutils with enhanced ergonomics and blistering speed, sorted in descending order by GitHub Stars_Count ⭐.
 
-| Utility | Stars | Replacement For | Highlights |
+| Utility | GitHub_Stars | Replacement For | Highlights |
 | :--- | :---: | :---: | :--- |
 | **[fzf](https://github.com/junegunn/fzf)** | [![Stars](https://img.shields.io/github/stars/junegunn/fzf?style=social&color=white)](https://github.com/junegunn/fzf/stargazers) | Interactive Search | Blazing-fast interactive command-line fuzzy finder for commands, files, history, git commits, and shell keybindings. |
 | **[lazygit](https://github.com/jesseduffield/lazygit)** | [![Stars](https://img.shields.io/github/stars/jesseduffield/lazygit?style=social&color=white)](https://github.com/jesseduffield/lazygit/stargazers) | Git CLI wrapper | Intuitive, full-featured terminal UI for git commands that simplifies staging, rebasing, stash management, and branch merging. |
@@ -124,7 +124,7 @@ Contributions are warmly encouraged! To propose a new terminal emulator, SSH wor
 
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-tool`.
-3. 📝 **Add your entry**: Follow the existing Markdown table format with accurate details, active links, and star badges.
+3. 📝 **Add your entry**: Follow the existing Markdown table format with accurate details, active links, and Stars_Badges.
 4. ✅ **Ensure accuracy**: Verify that URLs point to official repositories or sites and descriptions remain concise and objective.
 5. 🚀 **Submit a Pull Request** with a brief summary of the added project.
 
